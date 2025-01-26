@@ -1,0 +1,1 @@
+# planilhas_Inteligentes_Copilot
