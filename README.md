@@ -39,4 +39,5 @@ Data - Mês - Tipo - Categoria - Descriçãop - Valor - Operação Bancária - S
 ![Captura de tela 2025-01-30 214822](https://github.com/user-attachments/assets/d5090d24-6fdd-4c5d-a438-f880aa6ceeb7)
 
 🤖 6. Assim qaundo você alimentar sua tabela de DADOs consequentemenete vai para a tabela DINAMICA, feito as ESPECTIVAS botões de atalhos poderá ver e INTERPRETAR dados num simples clicks mas saindo em desuso futuramente é PowerBI <br>
+[MoneyApp_PauloJose.csv](https://github.com/user-attachments/files/18611185/MoneyApp_PauloJose.csv)
 
